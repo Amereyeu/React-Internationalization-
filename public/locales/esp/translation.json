@@ -1,0 +1,7 @@
+{
+  "title": "Internacionalización y localización",
+  "description": {
+    "p1": "En la informática, la internacionalización es el proceso de diseñar software de manera tal que pueda adaptarse a diferentes idiomas y regiones sin la necesidad de realizar cambios de ingeniería ni en el código. La localización es el proceso de adaptar el software para una región específica mediante la adición de componentes específicos de un locale y la traducción de los textos, por lo que también se le puede denominar regionalización. No obstante la traducción literal del inglés es la más extendida.",
+    "p2": "Es una práctica común en el idioma inglés (sobre todo en el ámbito de la computación), abreviar internationalization con el numerónimo i18n. Ello se debe a que entre la primera i y la última ene de dicha palabra hay 18 letras. Lo mismo sucede con localization, que se abrevia L10n. La L mayúscula se utiliza para distinguirla de la i minúscula de i18n."
+  }
+}
